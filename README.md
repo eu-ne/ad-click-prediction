@@ -23,7 +23,7 @@
 
 3) feature 그룹
 - l_feat_* : 광고 속성  피처 (l_feat_14는 Ads set)
-- feat_a_* ~feat_e_* : 광고 정보 영역 피처(정보영역 a~e)
+- feat_a_* ~ feat_e_* : 광고 정보 영역 피처(정보영역 a~e)
 - history_a_* : 과거 광고 인기도 피처
 
 4) target
