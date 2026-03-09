@@ -1,4 +1,5 @@
-# DACON 광고 클릭 예측 (토스 NEXT ML CHALLENGE : 광고 클릭 예측(CTR) 모델 개발)
+# DACON 광고 클릭 예측 
+(토스 NEXT ML CHALLENGE : 광고 클릭 예측(CTR) 모델 개발)
 
 ## 프로젝트 개요
 토스 앱 광고 노출 데이터를 기반으로
