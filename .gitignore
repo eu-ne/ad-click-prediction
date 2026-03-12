@@ -1,0 +1,63 @@
+# =========================
+# Python
+# =========================
+__pycache__/
+*.py[cod]
+*.pyo
+
+# =========================
+# Virtual Environment
+# =========================
+.venv/
+venv/
+env/
+
+# =========================
+# Jupyter
+# =========================
+.ipynb_checkpoints/
+
+# =========================
+# Environment Variables / Secrets
+# =========================
+.env
+.env.*
+*.pem
+*.key
+
+# =========================
+# Data
+# =========================
+data/
+!data/.gitkeep
+
+# =========================
+# Model Artifacts
+# =========================
+models/
+!models/.gitkeep
+*.pkl
+*.pickle
+*.joblib
+*.pt
+*.pth
+*.onnx
+*.h5
+*.ckpt
+
+# =========================
+# Outputs / Logs
+# =========================
+outputs/
+results/
+logs/
+*.log
+submission*.csv
+
+# =========================
+# IDE / OS
+# =========================
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
